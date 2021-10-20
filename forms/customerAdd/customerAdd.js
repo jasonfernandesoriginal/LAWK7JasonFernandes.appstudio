@@ -1,4 +1,4 @@
-
+/*
 btnSubmit.onclick = function() {
     name = inptName.value
     address = inptAddress.value
@@ -36,3 +36,4 @@ displayCustomers.onclick = function() {
     } else // the transit didn't work - bad wifi? server turned off?
         lblAdd.value = "Error code: " + req.status
 }
+*/
