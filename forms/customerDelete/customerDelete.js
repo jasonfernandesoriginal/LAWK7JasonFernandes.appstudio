@@ -1,4 +1,4 @@
-
+/*
 btnDelete.onclick = function() {
     let nameDelete = inptCustomerDelete.value
     let found = false
@@ -23,3 +23,4 @@ btnDelete.onclick = function() {
     else if (found == false)
         lblDeleted.value = "That customer name is not in the database."
 }
+*/
